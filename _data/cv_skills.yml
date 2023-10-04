@@ -1,17 +1,17 @@
-- name: Cooking
-  level: 70
-
-- name: Eating
+- name: Cocinando
   level: 80
 
-- name: Honest
+- name: Comiendo
+  level: 70
+
+- name: Honesto
   level: 95
 
-- name: Confident
-  level: 75
-
-- name: Loyal
+- name: Confidente
   level: 95
 
-- name: Sleeping
-  level: 60
+- name: Leal
+  level: 95
+
+- name: Dormilon
+  level: 100
