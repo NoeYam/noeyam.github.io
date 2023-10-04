@@ -1,14 +1,10 @@
-- name: Chinese 
-  level: Native
+- name: Español
+  level: Nativo
 
-- name: English 
-  level: Fluent
+- name: ingles 
+  level: intermedio
 
-- name: Malay 
-  level: Fluent
+- name: frances
+  level: basico
   
-- name: Hokkien 
-  level: Fluent
 
-- name: Cantonese 
-  level: Beginner
