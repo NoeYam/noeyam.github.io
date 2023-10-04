@@ -69,7 +69,7 @@ _Note: The content in `jekyll-for-everyone` is for illustration purpose only. It
 ### Index Page
 - The stylesheet, scripts, javascript for the index pages are stored at `/index_style/`.
 - The background picture for index page, named as `background-cover.jpg` can be found and replaced at `index_style/images`.
-- The profile picture for index page and cv page, named as `profile.png` can be found and replaced at `assets/images`.
+- The profile picture for index page and cv page, named as `noah.png` can be found and replaced at `assets/images`.
 - All the data that shown in the index page are stored in `/_data/index_page.yml`. Replace all the content in the files.
 
 ### CV
