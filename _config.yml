@@ -5,14 +5,14 @@ title: Melvin Ch'ng
 url: 'http://your-url.github.io'
 
 # Leave it default
-baseurl: 'no se que va aqui' 
+baseurl: '' 
 
 # Google Analytics
 ga_index: UA-XXXXXXXX-X
 ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
-name: Ing. Noe Yam
+name: 'Ing. Noe Yam'
 tagline: Software Developer, IoT, Reverse Engineering
 pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: ingeniero en sistemas en proceso
