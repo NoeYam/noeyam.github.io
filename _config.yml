@@ -17,11 +17,11 @@ tagline: Software Developer, IoT, Reverse Engineering
 pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: ingeniero en sistemas en proceso
 description_tiny: ' Deportista | programador  '
-email: you.email.email@gmail.com
-website: melvinchng.github.io # do not add http://
-linkedin: realmelvinchng
-github: melvinchng
-twitter: '@realmelvinchng'
+email: power2000.ny@gmail.com
+#website: melvinchng.github.io # do not add http://
+linkedin: i don't have :c
+github: NoeYam
+twitter: '@ing.Noeyam2'
 
 # Files or folders to be excluded
 exclude: [gitbook_source_code/]
